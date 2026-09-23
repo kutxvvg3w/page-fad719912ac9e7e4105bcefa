@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4feb0c83d717ab7737dcb42b",
+  "owner": "kutxvvg3w",
+  "repo": "page-fad719912ac9e7e4105bcefa",
+  "title": "云朵",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fad719912ac9e7e4105bcefa",
+      "a": "云朵",
+      "b": "2027官方最新地址导航",
+      "entity": "云朵",
+      "brand": "云朵",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "86c9a59c3f6c2a7ec9905f14b63afe17b43d6b422f9969c0b2b0a16a01bfa6a5",
+      "content": {
+        "primary_entity": "云朵",
+        "keyword1": "云朵",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "选择与设备匹配的客户端，按订阅链接完成导入配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，就能顺畅开始使用。",
+          "AI_CLOSING_TITLE": "开始你的云朵加速",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档订阅，月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，按年付费可享受对应优惠。客户端覆盖常见桌面与移动系统，导入订阅链接后即可切换节点，按设备数量和使用场景挑选套餐更划算。",
+          "AI_FEATURES_INTRO": "从套餐、设备到订阅周期，按实际需求选择。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量支持 3 台设备，适合个人轻量使用；旗舰版 300GB 支持 5 台设备，兼顾流媒体与游戏加速。",
+          "AI_FEATURE_TEXT_2": "团队版提供 1000GB 月流量与 20 台设备在线，适合小型团队多终端同时连接与协作。",
+          "AI_FEATURE_TEXT_3": "三档均提供年付价格，按年付费比月付更省，订阅周期越长平均到每月的成本越低。",
+          "AI_FEATURE_TITLE_1": "套餐选择",
+          "AI_FEATURE_TITLE_2": "设备需求",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成服务选择与订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "云朵提供基础版、旗舰版与团队版三档海外加速订阅，月流量从 100GB 到 1000GB，支持 3 至 20 台设备在线，年付方案更优惠。按设备数量与使用场景选择套餐，在常用客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "月流量 100GB 至 1000GB",
+          "AI_HIGHLIGHT_3": "年付方案更省费用",
+          "AI_PLANS_INTRO": "基础版 100GB 支持 3 台设备，旗舰版 300GB 支持 5 台设备，团队版 1000GB 支持 20 台设备，按设备数量与流量选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版与团队版中挑选合适的套餐。",
+          "AI_STEP_TEXT_2": "确认常用设备的系统与客户端类型，查看该客户端的适配要求与订阅导入方式。",
+          "AI_STEP_TEXT_3": "在客户端中依据文档填入订阅链接，保存更新后选择节点连接即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "云朵海外加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。同一时间在线的设备数量不能超过所选套餐上限，切换设备时退出旧设备连接即可。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。日常浏览和视频观看建议按每人每月 50GB 至 100GB 估算，按此选择套餐档位。",
+          "AI_FAQ_ANSWER_3": "Clash 的使用节奏是导入订阅、选择节点、按需切换，适合桌面端长期保持规则分流。Shadowrocket 和 Surge 在移动端配置更直观，V2rayN 适合 Windows 环境。",
+          "AI_FAQ_ANSWER_4": "按年付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。流量需求稳定、设备数量不常变动时，直接选择年付可以减少续费操作。",
+          "AI_FAQ_ANSWER_5": "在客户端中删除旧订阅再重新导入新的订阅地址，节点和流量信息会同步更新。如果仍显示旧节点，检查是否开启了多个配置文件并切换到正确的那个。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐续费。",
+          "AI_FAQ_QUESTION_1": "云朵订阅支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "不同套餐的每月流量有什么区别？",
+          "AI_FAQ_QUESTION_3": "Clash 和 Shadowrocket 分别适合什么场景？",
+          "AI_FAQ_QUESTION_4": "月付和年付哪个更合适？",
+          "AI_FAQ_QUESTION_5": "更换设备后订阅需要重新配置吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fbgyhdp.cn",
+    "host": "fbgyhdp.cn"
+  },
+  "file_hashes": {
+    "index.html": "48a8861056c18f1f4b1d32c8d4fa8554df7945a5a8a6e3a9324559f6145f4495",
+    "sitemap.xml": "b819295d7136ad6d0181d6dfcfc66f37f3ae50a876321ff7be3556918f445bb6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d5bf5cc851d095cb191afdd26709e48eaa07343097d40cd210ee6af0f976de25",
+    "robots.txt": "763153c2fc2baf222be3e12d224b8a9c465e0964100ebc84a45ab1a7e88d2f6d",
+    "922c7e61ea2873d39c1da649d861685b.txt": "d547ebded9476d2462e80efd0d1352235e75fb57f878f4c1b0c776e632cb3262"
+  },
+  "revision": "4e7b7fc7a30023b5566f4b2f04943dfc468e38a2d53a912ca368a9293a65889f"
+}
